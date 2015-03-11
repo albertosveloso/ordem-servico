@@ -1,6 +1,4 @@
 ordemServicoWindowsForms
 ========================
 
-Trabalho Interdisciplinar em grupo  (Windows Forms C#)  - Sistemas de Informação
-
-Em desenvolvimento...
+Ordem de serviço para estudo de Windows Forms e orientação a objetos utilizando C#
