@@ -1,3 +1,4 @@
+----
 CREATE DATABASE OrdemServico
 
 use OrdemServico
