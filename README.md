@@ -1,4 +1,3 @@
-ordemServicoWindowsForms
-========================
+Ordem de serviço - C# / Windows Form
 
-Ordem de serviço para estudo de Windows Forms e orientação a objetos utilizando C#
+Software simples de ordem de serviço para estudar linguagem C#, Windows Forms e orientação a objetos.
